@@ -59,9 +59,3 @@ git clone <your_project_repository_URL>
 cd US_Airline_Passenger_Satisfaction_Analysis
 pip install -r requirements.txt
 jupyter notebook
-
-### Additional Notes:
-1. **Accuracy**: Don't forget to replace `[insert accuracy]` with your model's actual performance (e.g., 85% accuracy).
-2. **License**: I used the MIT License here, but if you'd prefer a different one (e.g., GPL, CC), you can replace it.
-3. **Contributors**: Add any additional contributors if applicable.
-4. **Kaggle Dataset**: You might want to mention the specific Kaggle dataset link if you want to provide full transparency.
