@@ -55,7 +55,7 @@ To install the required dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
 
-git clone <your_project_repository_URL>
+git clone https://github.com/monicaw88/US_Airline_Passenger_Satisfaction_Analysis.git
 cd US_Airline_Passenger_Satisfaction_Analysis
 pip install -r requirements.txt
 jupyter notebook
