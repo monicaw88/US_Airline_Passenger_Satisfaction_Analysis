@@ -55,24 +55,13 @@ To install the required dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
 
-
-## How to Run
-1. **Clone the Project**:
-   ```bash
-   git clone <project repository URL>
-   cd US_Airline_Passenger_Satisfaction_Analysis
-2. **Install Dependencies**:
-   ```bash
-    pip install -r requirements.txt
-3. **Launch Jupyter Notebook**:
-   ```bash
-   jupyter notebook
-4. **Run the Notebooks**:
+git clone <your_project_repository_URL>
+cd US_Airline_Passenger_Satisfaction_Analysis
+pip install -r requirements.txt
+jupyter notebook
 
 ### Additional Notes:
 1. **Accuracy**: Don't forget to replace `[insert accuracy]` with your model's actual performance (e.g., 85% accuracy).
 2. **License**: I used the MIT License here, but if you'd prefer a different one (e.g., GPL, CC), you can replace it.
 3. **Contributors**: Add any additional contributors if applicable.
 4. **Kaggle Dataset**: You might want to mention the specific Kaggle dataset link if you want to provide full transparency.
-
-This should provide a comprehensive and clean README for your project. Let me know if you need more tweaks!
